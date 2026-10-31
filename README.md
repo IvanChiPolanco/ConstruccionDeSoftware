@@ -1,4 +1,4 @@
-# ConstruccionDeSoftware
+# Proyecto de Construcción de Software
 ## Integrantes
 * Chi Polanco Ivan Alejandro
 * Tello Mancilla Braulio
