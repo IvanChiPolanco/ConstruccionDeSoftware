@@ -1,2 +1,6 @@
 # ConstruccionDeSoftware
-Documentación del proyecto de construcción de software.
+## Integrantes
+* Chi Polanco Ivan Alejandro
+* Tello Mancilla Braulio
+* Chim Canche Omar Sebastian
+* Caamal Tencle Mateo Alejandro
