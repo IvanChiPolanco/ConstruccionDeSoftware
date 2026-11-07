@@ -3,5 +3,5 @@
 * Chi Polanco Ivan Alejandro
 * Tello Mancilla Braulio
 * Chim Canche Omar Sebastian
-* Caamal Tencle Mateo Alejandro
+* Caamal Tencle Mateo Alejandro (Panchito Panchet)
 
